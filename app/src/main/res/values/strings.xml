@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+    <string name="Home">Home</string>
+    <string name="Services">Service</string>
+    <string name="Welcome">welcome</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+    <string name="setting">Setting</string>
+</resources>
